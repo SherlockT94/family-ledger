@@ -7,9 +7,9 @@
 
 <p align="center">
   <img src="docs/screenshots/02-bills.png" width="24%" alt="账单列表" />
-  <img src="docs/screenshots/03-import.png" width="24%" alt="账单导入与去重" />
+  <img src="docs/screenshots/05-report.png" width="24%" alt="账单导入与去重" />
   <img src="docs/screenshots/04-settle.png" width="24%" alt="AA 结算" />
-  <img src="docs/screenshots/05-report.png" width="24%" alt="月度报表" />
+  <img src="docs/screenshots/03-import.png" width="24%" alt="月度报表" />
 </p>
 
 ---
